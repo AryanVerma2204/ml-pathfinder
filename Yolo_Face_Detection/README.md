@@ -1,1 +1,1 @@
-This describes what are the system requirements for the project to work and further describes how to do so in google colab.
+This describes what are the system requirements for the project to work and further describes how to do so in google colab. You can download the model from [here](https://drive.google.com/file/d/1CRSfqjpUCGq4xwQe8LXkz0Sg1l4s6Kpj/view?usp=sharing). Then place the model at the apt path.
